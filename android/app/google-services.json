@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "524491402169",
+    "project_id": "dried-bouquet",
+    "storage_bucket": "dried-bouquet.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:524491402169:android:11075ae8e86fcf227c2468",
+        "android_client_info": {
+          "package_name": "com.dried_bouquet"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "524491402169-1bcj9dh41muqdg29t934hss1ir8c3ejd.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.dried_bouquet",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "524491402169-3nk3lk2r7dmm9s8pbsc4kndbch46h0to.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC0P_I3_s7oTMxbmi4zPdyhwvdz1PI5Dm8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "524491402169-3nk3lk2r7dmm9s8pbsc4kndbch46h0to.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
